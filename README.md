@@ -1,5 +1,5 @@
 # Streaming Message
-此頁面
+操作以下程式碼運行Django
 ```
 pip install -r requirements.txt
 python manage.py migrate
